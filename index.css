@@ -1,0 +1,111 @@
+body{
+    background-color: #1B3764;
+    font-family: 'cardo';
+}
+
+nav.sec1 {
+    display: flex;
+    justify-content: space-between;
+}
+nav.sec1 .right {
+    display: flex;
+    padding-right: 156.1px;
+    padding-top: 40px;
+    font-family: 'Inter';
+    color: #ffffff;
+}
+nav.sec1 div.right p {
+    padding-left: 43px;
+    display: flex;
+    font-weight: 800;
+    font-size: 17px;
+}
+
+nav.sec1 div.right div.img{
+    padding-left: 30px;
+}
+
+nav.sec1 div.right div.img img.button{
+    padding-left: 30px;
+}
+nav.sec1 div.right div.img img.cart {
+    padding-left: 18px;
+    padding-bottom: 18px;
+}
+
+nav.sec1 div.left {
+    display: flex;
+    padding-left: 156.1px;
+    padding-top: 40px;
+}
+
+nav.sec1 div.left div.accounts img {
+    padding-left: 10px;
+}
+
+nav.sec1 div.left img.pages {
+padding-left: 15px;
+padding-top: 7px;
+    
+}
+
+nav.sec2 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav.sec2 div.tfel{
+    padding-left: 190px;
+    padding-top: 190px;
+
+}
+nav.sec2 div.thgir{
+    padding-right: 190px;
+    padding-top: 100px;
+    
+}
+
+nav.sec2 div.tfel p i{
+color: #ffffff;
+font-size: 25px;
+font-family: 'Cardo';
+font-weight: 1;
+
+}
+nav.sec2 div.tfel h1{
+    color: #ffffff;
+    font-size: 70px;
+}
+nav.sec2 div.tfel p.omg{
+    color: #b4c7e7;
+    font-family: 'inter';
+    font-size: 19px;
+    padding-bottom: 30px;
+}
+nav.sec2 div.tfel div.thebutton img.real{
+    padding-right: 50px;
+}
+nav.sec2 div.tfel div.thebutton img.no{
+    padding-bottom: 20px;
+}
+
+nav.sec2 div.tfel div.Iforgot{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+}
+
+nav.sec2 div.tfel div.Iforgot span{
+    color: #ffffff;
+    font-family: 'cardo';
+    font-size: 22px;
+    font-weight: 500;
+}
+nav.sec2 div.tfel div.Iforgot p {
+    padding-left: 23px;
+    font-size: 17px;
+    color:#b4c7e7;
+}
+nav.sec2 div.tfel div.Iforgot img{
+    padding-right: 10px;
+}
